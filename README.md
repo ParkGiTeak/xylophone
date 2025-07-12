@@ -13,4 +13,3 @@
  - Flutter AudioPlayer Library
    - SoundPool, JustAudio 등 여러 Library가 있고 SoundPool은 현재 지원이 중단됨.
    - JustAudio의 경우 각 AudioPlayer에 음원을 set해주기 때문에 동시에 여러 음원을 재생할 수 도 있다.
- - 
