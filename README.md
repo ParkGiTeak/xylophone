@@ -13,3 +13,7 @@
  - Flutter AudioPlayer Library
    - SoundPool, JustAudio 등 여러 Library가 있고 SoundPool은 현재 지원이 중단됨.
    - JustAudio의 경우 각 AudioPlayer에 음원을 set해주기 때문에 동시에 여러 음원을 재생할 수 도 있다.
+  
+---
+### 위에 정렬된 내용을 사용하여 실로폰 기능을 제공하는 Android, iOS, Web Flutter App Study
+- [참고 강의](https://www.inflearn.com/course/플러터-초입문-왕초보/dashboard)
